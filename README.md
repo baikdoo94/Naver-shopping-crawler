@@ -1,3 +1,3 @@
 # Naver-shopping-crawler
 네이버 쇼핑 크롤러
-박상진
+박상진상박
